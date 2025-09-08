@@ -1,0 +1,4 @@
+requests==2.32.4
+beautifulsoup4==4.12.3
+gspread==6.0.0
+oauth2client==4.1.3
